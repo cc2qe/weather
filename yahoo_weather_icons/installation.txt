@@ -1,0 +1,8 @@
+unrar the yahoo weather rar file
+
+copy the yahoo weather folder to SD Card\UltimateCustomClockWidget\weather
+paste here in weather folder
+
+on some skins u have to scale the icons 
+
+Enjoy HD Yahoo Weather Icons for UCCW :)

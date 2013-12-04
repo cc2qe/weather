@@ -1,0 +1,3 @@
+title = Yahoo Weather
+developer = Amit Pharande
+email = pharande_amit@rediffmail.com

@@ -1,0 +1,10 @@
+Fair    clear.png
+Clear   clear.png
+Partly Cloudy   partly_cloudy.png
+Mostly Cloudy   mostly_cloudy.png
+Cloudy   cloudy.png
+Partly Sunny    partly_sunny.png
+Rain    rain.png
+Overcast    overcast.png
+Windy   windy.png
+Sunny   sunny.png
