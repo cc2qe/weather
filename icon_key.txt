@@ -8,3 +8,5 @@ Rain    rain.png
 Overcast    overcast.png
 Windy   windy.png
 Sunny   sunny.png
+Freezing Rain   rain_snow.png
+Wintry Mix   rain_snow.png
