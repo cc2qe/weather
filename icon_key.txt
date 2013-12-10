@@ -10,3 +10,6 @@ Windy   windy.png
 Sunny   sunny.png
 Freezing Rain   rain_snow.png
 Wintry Mix   rain_snow.png
+Mostly Cloudy   mostly_cloudy.png
+Fog fog.png
+Light Rain  drizzle.png
