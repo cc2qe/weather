@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ZIP=22903
+ZIP=63103
 
 curl --silent "http://xml.weather.yahoo.com/forecastrss?p="${ZIP}"&u=c" | grep -E '(<title>Conditions|Current Conditions:|C<BR)' | sed -e 's/Current Conditions://' -e 's/<br \/>//' -e 's/<b>//' -e 's/<\/b>//' -e 's/<BR \/>//' -e 's/<description>//' -e 's/<\/description>//' -e 's/<title>//' -e 's/<\/title>//' | awk '{ if ($1 != "") print }'
 
